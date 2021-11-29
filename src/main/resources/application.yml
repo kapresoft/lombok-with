@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: "Lombok Tutorials"
+
+logging:
+  level:
+    ROOT: warn
+    org.springframework: warn
+    com.kapresoft: debug
