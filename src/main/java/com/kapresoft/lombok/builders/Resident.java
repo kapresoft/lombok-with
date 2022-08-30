@@ -7,7 +7,6 @@ import lombok.With;
 
 @Value
 @Builder
-@With
 public class Resident {
 
     @With(value = AccessLevel.PACKAGE)
