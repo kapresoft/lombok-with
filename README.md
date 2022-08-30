@@ -23,7 +23,7 @@ Expect a build success is printed in the console after executing maven verify.
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  5.191 s
-[INFO] Finished at: 2021-11-03T10:51:32-07:00
+[INFO] Total time:  7.013 s
+[INFO] Finished at: 2022-08-30T13:27:23-07:00
 [INFO] ------------------------------------------------------------------------
 ```
